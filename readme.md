@@ -4,11 +4,13 @@
   
 
 This is a mirror of [Login with Google API using PHP](http://usefulangle.com/post/9/google-login-api-with-php-curl).
+
 Find the [original documentation & code here!](http://usefulangle.com/post/9/google-login-api-with-php-curl).
 
 
 
 **Documentation backup**
+
 This article was updated on March 15th 2019 and is edited as per the new Google API process.
 
 The Javascript version of this tutorial is located at [Google Login with Javascript API](http://usefulangle.com/post/55/google-login-javascript-api).
