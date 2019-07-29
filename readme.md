@@ -1,15 +1,13 @@
 
 # Login with Google API using PHP
 
-  
+This is a mirror of [Login with Google API using PHP](http://usefulangle.com/post/9/google-login-api-with-php-curl). Big thanks [http://usefulangle.com](http://usefulangle.com) for this code!
 
-This is a mirror of [Login with Google API using PHP](http://usefulangle.com/post/9/google-login-api-with-php-curl).
+**Find the [original documentation & code here!](http://usefulangle.com/post/9/google-login-api-with-php-curl).**
 
-Find the [original documentation & code here!](http://usefulangle.com/post/9/google-login-api-with-php-curl).
+---
 
-
-
-**Documentation backup**
+***Documentation backup***
 
 This article was updated on March 15th 2019 and is edited as per the new Google API process.
 
